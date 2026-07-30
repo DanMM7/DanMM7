@@ -7,8 +7,8 @@ I like breaking things and fixing them again.
 * 🌍  I'm based in Tennessee
 * 🖥️  See my portfolio at [DanMM](http://my-portfolio-agaz.vercel.app/)
 * ✉️  You can contact me at [dmmalengela@gmail.com](mailto:dmmalengela@gmail.com)
-* 🚀  I'm currently working on [ECJS](http://github.com/DanMM7/ECJS)
-* 🧠  I'm learning VueJS, Python, C++, Data Science and Ai
+* 🚀  I'm currently working on [Health-Pipe](https://github.com/DanMM7/Health-Pipe)
+* 🧠  I'm learning AWS Data Engineering, Python, PostgreSQL, Data Science and Ai
 * 🤝  I'm open to collaborating on An Data Science or Ai project
 * ⚡  I play the bass!!!
 
