@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dan Malengela 
 =====================================================================================================================================  
 
-Software Engineer 
+Data Engineer 
 -----------------  
 I like breaking things and fixing them again.  
-* 🌍  I'm based in Tennessee
+* 🌍  I'm based in Georgia
 * 🖥️  See my portfolio at [DanMM](http://my-portfolio-agaz.vercel.app/)
 * ✉️  You can contact me at [dmmalengela@gmail.com](mailto:dmmalengela@gmail.com)
 * 🚀  I'm currently working on [Health-Pipe](https://github.com/DanMM7/Health-Pipe)
